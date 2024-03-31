@@ -1,26 +1,24 @@
 ```markdown
 # Google Gemini AI Clone
 
-This project is a clone of Google's Gemini AI interface built using React, Tailwind CSS, and the Google Gemini AI API. It aims to replicate the functionality and design of Google's AI interface while utilizing the Gemini AI API for generating content.
+###This project is a clone of Google's Gemini AI interface built using React, Tailwind CSS, and the Google Gemini AI API. It aims to replicate the functionality and design of Google's AI interface while utilizing the Gemini AI API for generating content.
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+Introduction
+Features
+Installation
+Usage
+Configuration
+Contributing
+License
 
 ## Introduction
-
 Google Gemini AI Clone is a web application that provides an interface similar to Google's Gemini AI for generating various types of content using artificial intelligence. It utilizes React for the frontend development, Tailwind CSS for styling, and integrates with the Google Gemini AI API for content generation.
 
-## Features
-
-- **User-friendly Interface**: The interface closely resembles Google's Gemini AI, providing familiarity to users.
-- **Content Generation**: Utilizes the Google Gemini AI API to generate diverse types of content including text and more.
-- **Responsive Design**: Built with responsiveness in mind, ensuring a seamless experience across different devices and screen sizes.
+Features
+User-friendly Interface: The interface closely resembles Google's Gemini AI, providing familiarity to users.
+Content Generation: Utilizes the Google Gemini AI API to generate diverse types of content including text, images, and more.
+Responsive Design: Built with responsiveness in mind, ensuring a seamless experience across different devices and screen sizes.
 
 ## Installation
 
