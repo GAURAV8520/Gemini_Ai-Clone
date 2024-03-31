@@ -61,7 +61,7 @@ To use the Google Gemini AI API, you need to obtain an API key from Google and c
 3. Add your API key to the `gemini.js` file:
 
    ```
-   REACT_APP_API_KEY=your-api-key-goes-here
+   const API_KEY = "Your API key";
    ```
 
 4. Save the  file.
