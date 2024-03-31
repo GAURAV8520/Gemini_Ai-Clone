@@ -12,7 +12,7 @@ Installation
 Usage
 Configuration
 Contributing
-License
+
 
 ## Introduction
 Google Gemini AI Clone is a web application that provides an interface similar to Google's Gemini AI for generating various types of content using artificial intelligence. It utilizes React for the frontend development, Tailwind CSS for styling, and integrates with the Google Gemini AI API for content generation.
