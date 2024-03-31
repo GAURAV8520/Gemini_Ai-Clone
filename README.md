@@ -74,8 +74,4 @@ With the API key configured, the application will be able to communicate with th
 ## Contributing
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request. Please ensure that your contributions adhere to the code style and guidelines of the project.
-
-
-
-
 ```
