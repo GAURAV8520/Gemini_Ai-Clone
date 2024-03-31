@@ -75,7 +75,5 @@ With the API key configured, the application will be able to communicate with th
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request. Please ensure that your contributions adhere to the code style and guidelines of the project.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute this project as per the terms of the license.
 ```
